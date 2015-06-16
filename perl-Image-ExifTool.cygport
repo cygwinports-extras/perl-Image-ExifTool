@@ -1,0 +1,12 @@
+CPAN_AUTHOR=exiftool
+inherit perl
+
+NAME="perl-Image-ExifTool"
+VERSION=8.25
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Exif toolkit for Perl"
+DESCRIPTION="ExifTool is a customizable set of Perl modules plus a full-featured
+application for reading and writing meta information in a wide variety of files,
+including the maker note information of many digital cameras by various
+manufacturers."
