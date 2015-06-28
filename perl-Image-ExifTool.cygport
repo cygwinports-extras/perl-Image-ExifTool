@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Image-ExifTool"
 VERSION=9.90
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Exif toolkit for Perl"
 DESCRIPTION="ExifTool is a customizable set of Perl modules plus a full-featured
